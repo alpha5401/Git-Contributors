@@ -1,0 +1,1 @@
+this is the third method of creating a text file from the command line using copy con filename. then ctrl z to return to the command line
