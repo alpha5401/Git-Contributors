@@ -1,0 +1,1 @@
+this metthod uses the command: type nul > filename.txt

@@ -1,1 +1,2 @@
+using: copy nul > file.txt
 this my first text file 
