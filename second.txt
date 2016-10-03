@@ -1,2 +1,4 @@
 my second text file using notepad command on the command line
 I am making this changes on github online.
+using echo to create a text file from command line
+echo " some message" > filename.txt
