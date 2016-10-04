@@ -10,3 +10,4 @@ function lazygit() {
     git commit -a -m "$1"
     git push
 }
+this is a change in the readme file
