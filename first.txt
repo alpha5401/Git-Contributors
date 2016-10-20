@@ -1,3 +1,4 @@
 using: copy nul > file.txt
 this my first text file 
 instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
+this is another way of creating a text file: echo " some message" > filename.txt
