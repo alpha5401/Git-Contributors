@@ -4,7 +4,6 @@ instruction for listing with pretty format showing : git log --pretty=format:"%h
 this is another way of creating a text file: echo " some message" > filename.txt
 this line and the next is modified by spirit5401
 another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
-additional line by spirit5401
 this line is being modified by user spirit5402
 =======================
 Table 2-2. Common options to git log
@@ -27,6 +26,8 @@ Option	Description
 
 --pretty        Show commits in an alternate format. Options include oneline, short, full, fuller, and format (where you specify your own format).
 ===============================
-this is an extra contribution by spirit5402
 another line of code by the same contributor spirit5402
-3rdline of spirit5402 in this current commit
+3rd line of spirit5402 in this current commit
+---------alpha5401
+in this commit alpha deleted two lines (one fron spirit5401 and one from spirit5402) and added two lines
+
