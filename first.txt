@@ -27,3 +27,6 @@ Option	Description
 
 --pretty        Show commits in an alternate format. Options include oneline, short, full, fuller, and format (where you specify your own format).
 ===============================
+this is an extra contribution by spirit5402
+another line of code by the same contributor spirit5402
+3rdline of spirit5402 in this current commit
