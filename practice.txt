@@ -1,0 +1,236 @@
+commit 6be075bdf05e8333861f8d6e4848d4ad6bafa7c7
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 23 05:40:45 2016 -0400
+
+    Update first.txt
+
+ first.txt | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+commit 0b94dfc8140fa82ddaa03618811caabafee3bbec
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Sun Oct 23 05:36:57 2016 -0400
+
+    Update first.txt
+
+ first.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 5d09492cd7b2534294800cd90d7d3f21c1bae092
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Thu Oct 20 22:49:06 2016 -0400
+
+    Update first.txt
+
+ first.txt | 22 ++++++++++++++++++++++
+ 1 file changed, 22 insertions(+)
+
+commit 1852800c233540dedfffca5f7059b64e1625d62e
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:36:31 2016 -0400
+
+    Update first.txt
+
+ first.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 5fab98bee42cb282143ac6e456ccc0ecdd4abf77
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:35:43 2016 -0400
+
+    Update first.txt
+
+ first.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b11be917a5b311f39a8e6b13a2464cc2ca48f136
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:31:53 2016 -0400
+
+    Update first.txt
+
+ first.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit 88da36820d39790cf4e372adbe9ab838fe6222af
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 20 07:16:09 2016 -0400
+
+    Update first.txt
+
+ first.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f98bae1f35709451890980c39fe909cc1c6c06ef
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 20 07:12:56 2016 -0400
+
+    Update first.txt
+
+ first.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f9ecc0e9e91bbfadfa592dc5d59f85450cd2dea5
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Mon Oct 10 17:20:02 2016 -0400
+
+    Update sixth.txt
+
+ sixth.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 13854c1cf151f9812d9dabc02cfb0ae8b836b08b
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Mon Oct 10 17:18:25 2016 -0400
+
+    Update sixth.txt
+
+ sixth.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 57434934b335b8df63592c765d6c6effc7d558ca
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Sun Oct 9 23:00:26 2016 -0400
+
+    Update sixth.txt
+
+ sixth.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 79242e8297686536396cbb1b8ec3edda93a829e6
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Sun Oct 9 19:30:19 2016 -0400
+
+    Update sixth.txt
+
+ sixth.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 518b6e0a75fa5b9db081d52580660583fbde0d2d
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Sun Oct 9 19:27:42 2016 -0400
+
+    Update sixth.txt
+
+ sixth.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 310a266403345062eef6a31dd64281319cb7533e
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Oct 7 00:28:14 2016 -0400
+
+    modified file sixth by spirit5402
+
+ sixth.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 89eed0f766cbda8fe0ed9e44650c0299e3ff166e
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Oct 7 00:23:44 2016 -0400
+
+    added new file by user spirit5401
+
+ sixth.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 64e3e286edf4c9d1edb8e8867877a289cafd931c
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 6 23:50:31 2016 -0400
+
+    created new file by spirit5402
+
+ Git-Contributors | 1 +
+ fifth.txt        | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit 3151c0ec8d9ca93ef11113a88b03cc01f674c468
+Merge: cc6fba1 8ef3105
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 3 20:47:00 2016 -0400
+
+    Merge branch 'master' of https://github.com/alpha5401/Git-Contributors
+
+commit cc6fba1f9cf8780b4d0aca04088d38eb84f8c9ea
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 3 20:35:19 2016 -0400
+
+    added text to readme
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 8ef31055942d3db673d7c6d8af0414f2dcc902c1
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 3 12:33:17 2016 -0400
+
+    Update second.txt
+
+ second.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 0fdf0d4ec66d41b13eb9979b2d213b46177fe8d8
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 2 17:58:28 2016 -0400
+
+    added text
+
+ README.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 2e1c637a10be4a46ed2e74bb08bff290e9483cb9
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 2 17:55:54 2016 -0400
+
+    added text
+
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit d0df13dcfa75e30526d67b5cab478165456d87fd
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 2 17:32:34 2016 -0400
+
+    added file
+
+ first.txt  | 1 +
+ fourth.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit b5227a72ba2e4bb4a7f50cc5715186cd334a6eb7
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Sep 29 23:47:32 2016 -0400
+
+    Update second.txt
+
+ second.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 5a1a8404b422e8da060b2e874d7448856927b676
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Sep 29 23:38:20 2016 -0400
+
+    added text to readme.md
+
+ README.md  | 4 +++-
+ first.txt  | 1 +
+ second.txt | 1 +
+ third.txt  | 1 +
+ 4 files changed, 6 insertions(+), 1 deletion(-)
+
+commit 8fb1b5984ff3baaf2c40f7ec0b8b1cb8b311f3da
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Sep 25 23:08:55 2016 -0400
+
+    --all
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 76318d80bf36c9c768514dda94b1afd2a898c867
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Sep 25 18:42:06 2016 -0400
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)

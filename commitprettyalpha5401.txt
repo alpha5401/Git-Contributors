@@ -1,0 +1,35 @@
+4	3	first.txt
+
+1	0	first.txt
+
+1	0	first.txt
+
+2	1	sixth.txt
+
+1	0	sixth.txt
+
+1	0	Git-Contributors
+2	0	fifth.txt
+
+
+1	0	README.md
+
+2	0	second.txt
+
+7	1	README.md
+
+3	1	README.md
+
+1	0	first.txt
+1	0	fourth.txt
+
+2	1	second.txt
+
+3	1	README.md
+1	0	first.txt
+1	0	second.txt
+1	0	third.txt
+
+2	1	README.md
+
+1	0	README.md
