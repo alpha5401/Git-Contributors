@@ -1,21 +1,43 @@
-commit 9d0dd2e493ff94e57c2fd67246f861eb1a7b7d28
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Oct 27 21:05:44 2016 -0400
+0060578, an%, %ah, Update workfile1.txt
+diff --git a/workfile1.txt b/workfile1.txt
+index fb7d694..a1a5d96 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -14,4 +14,4 @@ line13-added by alpha5401
+ line14-added by alpha5401
+ line15
+ line16
+-line16
++line17
 
-    Update workfile1.txt
+70cab49, an%, %ah, Update workfile1.txt
+diff --git a/workfile1.txt b/workfile1.txt
+index 3332316..fb7d694 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -12,3 +12,6 @@ line11-added by alpha5401
+ line12-added by alpha5401
+ line13-added by alpha5401
+ line14-added by alpha5401
++line15
++line16
++line16
 
-commit df823bfa1643f2b7093458219de8be0b571b355e
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Oct 27 21:05:26 2016 -0400
+2876438, an%, %ah, Update workfile1.txt
+diff --git a/workfile1.txt b/workfile1.txt
+index c265997..3332316 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -10,3 +10,5 @@ line9-added by spirit5402
+ line10-added by alpha5401
+ line11-added by alpha5401
+ line12-added by alpha5401
++line13-added by alpha5401
++line14-added by alpha5401
 
-    Update workfile1.txt
-
-commit c42d3649b1e9da205f65ef5e516b164a5a34f2ff
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Oct 27 21:04:59 2016 -0400
-
-    Update workfile1.txt
-
+9d0dd2e, an%, %ah, Update workfile1.txt
+df823bf, an%, %ah, Update workfile1.txt
+c42d364, an%, %ah, Update workfile1.txt
 diff --git a/workfile1.txt b/workfile1.txt
 index 9648935..c265997 100644
 --- a/workfile1.txt
@@ -28,12 +50,44 @@ index 9648935..c265997 100644
 +line11-added by alpha5401
 +line12-added by alpha5401
 
-commit 913ef5b603f42aa6304c300cb7b3d5c81758f2b5
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Wed Oct 26 23:08:59 2016 -0400
+14d6089, an%, %ah, Update workfile1.txt
+diff --git a/workfile1.txt b/workfile1.txt
+index 4bd2124..9648935 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -1,7 +1,9 @@
+ line1-added by alpha5401
+ line2-added by alpha5401
+-line3-added by alpha5401
++line3-deleted by spirit5402
+ line4-added by alpha5401
+ line5-this line was deleted by spirit5401(was added by alpha5401)
+ line6-added by spirit5401
+ line7-added by spirit5401
++line8-added by spirit5402
++line9-added by spirit5402
 
-    updated workfile1
+b85ee3c, an%, %ah, Update workfile1.txt
+diff --git a/workfile1.txt b/workfile1.txt
+index d0056c0..4bd2124 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -1,5 +1,7 @@
+-line1-added by alpha1
+-line2-added by alpha1
+-line3-added by alpha1
+-line4-added by alpha1
+-line5-added by alpha2
+\ No newline at end of file
++line1-added by alpha5401
++line2-added by alpha5401
++line3-added by alpha5401
++line4-added by alpha5401
++line5-this line was deleted by spirit5401(was added by alpha5401)
++line6-added by spirit5401
++line7-added by spirit5401
 
+913ef5b, an%, %ah, updated workfile1
 diff --git a/workfile1.txt b/workfile1.txt
 index e69de29..d0056c0 100644
 --- a/workfile1.txt
@@ -46,12 +100,7 @@ index e69de29..d0056c0 100644
 +line5-added by alpha2
 \ No newline at end of file
 
-commit ea9e0f7423613f7fdccbd7f55fcf64da8690e4fc
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Wed Oct 26 23:03:51 2016 -0400
-
-     added new file
-
+ea9e0f7, an%, %ah,  added new file
 diff --git a/commitalpha5401.txt b/commitalpha5401.txt
 new file mode 100644
 index 0000000..613bf4d
@@ -618,12 +667,7 @@ diff --git a/workfile1.txt b/workfile1.txt
 new file mode 100644
 index 0000000..e69de29
 
-commit 6be075bdf05e8333861f8d6e4848d4ad6bafa7c7
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Sun Oct 23 05:40:45 2016 -0400
-
-    Update first.txt
-
+6be075b, an%, %ah, Update first.txt
 diff --git a/first.txt b/first.txt
 index 30dd1eb..e545af0 100644
 --- a/first.txt
@@ -648,12 +692,90 @@ index 30dd1eb..e545af0 100644
 +in this commit alpha deleted two lines (one fron spirit5401 and one from spirit5402) and added two lines
 +
 
-commit 88da36820d39790cf4e372adbe9ab838fe6222af
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Oct 20 07:16:09 2016 -0400
+0b94dfc, an%, %ah, Update first.txt
+diff --git a/first.txt b/first.txt
+index bb5847a..30dd1eb 100644
+--- a/first.txt
++++ b/first.txt
+@@ -27,3 +27,6 @@ Option	Description
+ 
+ --pretty        Show commits in an alternate format. Options include oneline, short, full, fuller, and format (where you specify your own format).
+ ===============================
++this is an extra contribution by spirit5402
++another line of code by the same contributor spirit5402
++3rdline of spirit5402 in this current commit
 
-    Update first.txt
+5d09492, an%, %ah, Update first.txt
+diff --git a/first.txt b/first.txt
+index 7883848..bb5847a 100644
+--- a/first.txt
++++ b/first.txt
+@@ -5,3 +5,25 @@ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+ additional line by spirit5401
++this line is being modified by user spirit5402
++=======================
++Table 2-2. Common options to git log
++Option	Description
++-p              Show the patch introduced with each commit.
++
++--stat          Show statistics for files modified in each commit.
++
++--shortstat     Display only the changed/insertions/deletions line from the --stat command.
++
++--name-only     Show the list of files modified after the commit information.
++
++--name-status   Show the list of files affected with added/modified/deleted information as well.
++
++--abbrev-commit Show only the first few characters of the SHA-1 checksum instead of all 40.
++
++--relative-date Display the date in a relative format (for example, “2 weeks ago”) instead of using the full date format.
++
++--graph         Display an ASCII graph of the branch and merge history beside the log output.
++
++--pretty        Show commits in an alternate format. Options include oneline, short, full, fuller, and format (where you specify your own format).
++===============================
 
+1852800, an%, %ah, Update first.txt
+diff --git a/first.txt b/first.txt
+index 0d234c3..7883848 100644
+--- a/first.txt
++++ b/first.txt
+@@ -5,4 +5,3 @@ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+ additional line by spirit5401
+-
+
+5fab98b, an%, %ah, Update first.txt
+diff --git a/first.txt b/first.txt
+index 5d69009..0d234c3 100644
+--- a/first.txt
++++ b/first.txt
+@@ -4,5 +4,5 @@ instruction for listing with pretty format showing : git log --pretty=format:"%h
+ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+-additional lne by spirit5401
++additional line by spirit5401
+ 
+
+b11be91, an%, %ah, Update first.txt
+diff --git a/first.txt b/first.txt
+index c836830..5d69009 100644
+--- a/first.txt
++++ b/first.txt
+@@ -2,3 +2,7 @@ using: copy nul > file.txt
+ this my first text file 
+ instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
+ this is another way of creating a text file: echo " some message" > filename.txt
++this line and the next is modified by spirit5401
++another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
++additional lne by spirit5401
++
+
+88da368, an%, %ah, Update first.txt
 diff --git a/first.txt b/first.txt
 index ab77cf5..c836830 100644
 --- a/first.txt
@@ -664,12 +786,7 @@ index ab77cf5..c836830 100644
  instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
 +this is another way of creating a text file: echo " some message" > filename.txt
 
-commit f98bae1f35709451890980c39fe909cc1c6c06ef
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Oct 20 07:12:56 2016 -0400
-
-    Update first.txt
-
+f98bae1, an%, %ah, Update first.txt
 diff --git a/first.txt b/first.txt
 index 3bd0635..ab77cf5 100644
 --- a/first.txt
@@ -679,12 +796,68 @@ index 3bd0635..ab77cf5 100644
  this my first text file 
 +instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
 
-commit 310a266403345062eef6a31dd64281319cb7533e
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Fri Oct 7 00:28:14 2016 -0400
+f9ecc0e, an%, %ah, Update sixth.txt
+diff --git a/sixth.txt b/sixth.txt
+index 5293108..d1d161a 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -4,4 +4,5 @@ this line is being added on github online by user spirit5401
+ (deleted by user spirit5402)
+ this line is actually added by user spirit5402
+ this is the latest update by author spirit5402
++this is the latest upadet by user spirit5401-- user alpha5401 has not yet updated this document.
+ 
 
-    modified file sixth by spirit5402
+13854c1, an%, %ah, Update sixth.txt
+diff --git a/sixth.txt b/sixth.txt
+index d0969d3..5293108 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -3,4 +3,5 @@ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
+ (deleted by user spirit5402)
+ this line is actually added by user spirit5402
++this is the latest update by author spirit5402
+ 
 
+5743493, an%, %ah, Update sixth.txt
+diff --git a/sixth.txt b/sixth.txt
+index 04c9034..d0969d3 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,4 +1,6 @@
+ this file was added using the command line by user spirit5401
+ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
+-this is a line by user alpha5401
++(deleted by user spirit5402)
++this line is actually added by user spirit5402
++
+
+79242e8, an%, %ah, Update sixth.txt
+diff --git a/sixth.txt b/sixth.txt
+index c4a139d..04c9034 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,3 +1,4 @@
+ this file was added using the command line by user spirit5401
+ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
++this is a line by user alpha5401
+
+518b6e0, an%, %ah, Update sixth.txt
+diff --git a/sixth.txt b/sixth.txt
+index 14e1d1c..c4a139d 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,2 +1,3 @@
+ this file was added using the command line by user spirit5401
+-this line of this file is being modified by user spirit 5402
+\ No newline at end of file
++this line of this file is being modified by user spirit 5402
++this line is being added on github online by user spirit5401
+
+310a266, an%, %ah, modified file sixth by spirit5402
 diff --git a/sixth.txt b/sixth.txt
 index 8ef2c6f..14e1d1c 100644
 --- a/sixth.txt
@@ -696,12 +869,7 @@ index 8ef2c6f..14e1d1c 100644
 +this line of this file is being modified by user spirit 5402
 \ No newline at end of file
 
-commit 89eed0f766cbda8fe0ed9e44650c0299e3ff166e
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Fri Oct 7 00:23:44 2016 -0400
-
-    added new file by user spirit5401
-
+89eed0f, an%, %ah, added new file by user spirit5401
 diff --git a/sixth.txt b/sixth.txt
 new file mode 100644
 index 0000000..8ef2c6f
@@ -711,12 +879,7 @@ index 0000000..8ef2c6f
 +this file was added using the command line by user spirit5401
 \ No newline at end of file
 
-commit 64e3e286edf4c9d1edb8e8867877a289cafd931c
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Oct 6 23:50:31 2016 -0400
-
-    created new file by spirit5402
-
+64e3e28, an%, %ah, created new file by spirit5402
 diff --git a/Git-Contributors b/Git-Contributors
 new file mode 160000
 index 0000000..3151c0e
@@ -734,19 +897,8 @@ index 0000000..d62d6ba
 +the username adding this file in spririt5401
 \ No newline at end of file
 
-commit 3151c0ec8d9ca93ef11113a88b03cc01f674c468
-Merge: cc6fba1 8ef3105
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Mon Oct 3 20:47:00 2016 -0400
-
-    Merge branch 'master' of https://github.com/alpha5401/Git-Contributors
-
-commit cc6fba1f9cf8780b4d0aca04088d38eb84f8c9ea
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Mon Oct 3 20:35:19 2016 -0400
-
-    added text to readme
-
+3151c0e, an%, %ah, Merge branch 'master' of https://github.com/alpha5401/Git-Contributors
+cc6fba1, an%, %ah, added text to readme
 diff --git a/README.md b/README.md
 index e8dd1d6..945a991 100644
 --- a/README.md
@@ -758,12 +910,7 @@ index e8dd1d6..945a991 100644
 +this is a change in the readme file
 \ No newline at end of file
 
-commit 8ef31055942d3db673d7c6d8af0414f2dcc902c1
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Mon Oct 3 12:33:17 2016 -0400
-
-    Update second.txt
-
+8ef3105, an%, %ah, Update second.txt
 diff --git a/second.txt b/second.txt
 index dda7ba4..c8a7024 100644
 --- a/second.txt
@@ -774,12 +921,7 @@ index dda7ba4..c8a7024 100644
 +using echo to create a text file from command line
 +echo " some message" > filename.txt
 
-commit 0fdf0d4ec66d41b13eb9979b2d213b46177fe8d8
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Sun Oct 2 17:58:28 2016 -0400
-
-    added text
-
+0fdf0d4, an%, %ah, added text
 diff --git a/README.md b/README.md
 index 04cb452..e8dd1d6 100644
 --- a/README.md
@@ -798,12 +940,7 @@ index 04cb452..e8dd1d6 100644
 +    git push
 +}
 
-commit 2e1c637a10be4a46ed2e74bb08bff290e9483cb9
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Sun Oct 2 17:55:54 2016 -0400
-
-    added text
-
+2e1c637, an%, %ah, added text
 diff --git a/README.md b/README.md
 index 93bafc3..04cb452 100644
 --- a/README.md
@@ -819,12 +956,7 @@ index 93bafc3..04cb452 100644
 +git remote -v
 \ No newline at end of file
 
-commit d0df13dcfa75e30526d67b5cab478165456d87fd
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Sun Oct 2 17:32:34 2016 -0400
-
-    added file
-
+d0df13d, an%, %ah, added file
 diff --git a/first.txt b/first.txt
 index 049cf15..3bd0635 100644
 --- a/first.txt
@@ -841,12 +973,7 @@ index 0000000..e080191
 +this metthod uses the command: type nul > filename.txt
 \ No newline at end of file
 
-commit b5227a72ba2e4bb4a7f50cc5715186cd334a6eb7
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Sep 29 23:47:32 2016 -0400
-
-    Update second.txt
-
+b5227a7, an%, %ah, Update second.txt
 diff --git a/second.txt b/second.txt
 index 375a41d..dda7ba4 100644
 --- a/second.txt
@@ -857,12 +984,7 @@ index 375a41d..dda7ba4 100644
 +my second text file using notepad command on the command line
 +I am making this changes on github online.
 
-commit 5a1a8404b422e8da060b2e874d7448856927b676
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Thu Sep 29 23:38:20 2016 -0400
-
-    added text to readme.md
-
+5a1a840, an%, %ah, added text to readme.md
 diff --git a/README.md b/README.md
 index 77cd486..93bafc3 100644
 --- a/README.md
@@ -898,12 +1020,7 @@ index 0000000..96d61e2
 @@ -0,0 +1 @@
 +this is the third method of creating a text file from the command line using copy con filename. then ctrl z to return to the command line
 
-commit 8fb1b5984ff3baaf2c40f7ec0b8b1cb8b311f3da
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Sun Sep 25 23:08:55 2016 -0400
-
-    --all
-
+8fb1b59, an%, %ah, --all
 diff --git a/README.md b/README.md
 index 70da9d5..77cd486 100644
 --- a/README.md
@@ -915,12 +1032,7 @@ index 70da9d5..77cd486 100644
 +this repository is to capture the contributions of the various contributors to a specific code in order to determine who the most valuable people are for the program.
 \ No newline at end of file
 
-commit 76318d80bf36c9c768514dda94b1afd2a898c867
-Author: alpha5401 <tifor01@gmail.com>
-Date:   Sun Sep 25 18:42:06 2016 -0400
-
-    Initial commit
-
+76318d8, an%, %ah, Initial commit
 diff --git a/README.md b/README.md
 new file mode 100644
 index 0000000..70da9d5

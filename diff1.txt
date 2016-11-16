@@ -1,0 +1,17 @@
+diff --git a/workfile1.txt b/workfile1.txt
+index e69de29..c265997 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -0,0 +1,12 @@
++line1-added by alpha5401
++line2-added by alpha5401
++line3-deleted by spirit5402
++line4-added by alpha5401
++line5-this line was deleted by spirit5401(was added by alpha5401)
++line6-added by spirit5401
++line7-added by spirit5401
++line8-added by spirit5402
++line9-added by spirit5402
++line10-added by alpha5401
++line11-added by alpha5401
++line12-added by alpha5401

@@ -1,3 +1,55 @@
+commit 0060578c2d6c398664660703e5dd3870a51963da
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Nov 4 22:48:35 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index fb7d694..a1a5d96 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -14,4 +14,4 @@ line13-added by alpha5401
+ line14-added by alpha5401
+ line15
+ line16
+-line16
++line17
+
+commit 70cab491f4b581638ce4dd1383c38bcb64bd2fc1
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Nov 4 21:45:45 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index 3332316..fb7d694 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -12,3 +12,6 @@ line11-added by alpha5401
+ line12-added by alpha5401
+ line13-added by alpha5401
+ line14-added by alpha5401
++line15
++line16
++line16
+
+commit 287643800ec28a0ff7bb1d01b63df111da87f859
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 31 10:03:29 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index c265997..3332316 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -10,3 +10,5 @@ line9-added by spirit5402
+ line10-added by alpha5401
+ line11-added by alpha5401
+ line12-added by alpha5401
++line13-added by alpha5401
++line14-added by alpha5401
+
 commit 9d0dd2e493ff94e57c2fd67246f861eb1a7b7d28
 Author: alpha5401 <tifor01@gmail.com>
 Date:   Thu Oct 27 21:05:44 2016 -0400

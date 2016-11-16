@@ -1,0 +1,127 @@
+commit b85ee3caca893b501e7a2d0c98217e8406ff9d1e
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 27 20:58:54 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index d0056c0..4bd2124 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -1,5 +1,7 @@
+-line1-added by alpha1
+-line2-added by alpha1
+-line3-added by alpha1
+-line4-added by alpha1
+-line5-added by alpha2
+\ No newline at end of file
++line1-added by alpha5401
++line2-added by alpha5401
++line3-added by alpha5401
++line4-added by alpha5401
++line5-this line was deleted by spirit5401(was added by alpha5401)
++line6-added by spirit5401
++line7-added by spirit5401
+
+commit 1852800c233540dedfffca5f7059b64e1625d62e
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:36:31 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index 0d234c3..7883848 100644
+--- a/first.txt
++++ b/first.txt
+@@ -5,4 +5,3 @@ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+ additional line by spirit5401
+-
+
+commit 5fab98bee42cb282143ac6e456ccc0ecdd4abf77
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:35:43 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index 5d69009..0d234c3 100644
+--- a/first.txt
++++ b/first.txt
+@@ -4,5 +4,5 @@ instruction for listing with pretty format showing : git log --pretty=format:"%h
+ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+-additional lne by spirit5401
++additional line by spirit5401
+ 
+
+commit b11be917a5b311f39a8e6b13a2464cc2ca48f136
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:31:53 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index c836830..5d69009 100644
+--- a/first.txt
++++ b/first.txt
+@@ -2,3 +2,7 @@ using: copy nul > file.txt
+ this my first text file 
+ instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
+ this is another way of creating a text file: echo " some message" > filename.txt
++this line and the next is modified by spirit5401
++another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
++additional lne by spirit5401
++
+
+commit f9ecc0e9e91bbfadfa592dc5d59f85450cd2dea5
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Mon Oct 10 17:20:02 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index 5293108..d1d161a 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -4,4 +4,5 @@ this line is being added on github online by user spirit5401
+ (deleted by user spirit5402)
+ this line is actually added by user spirit5402
+ this is the latest update by author spirit5402
++this is the latest upadet by user spirit5401-- user alpha5401 has not yet updated this document.
+ 
+
+commit 79242e8297686536396cbb1b8ec3edda93a829e6
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Sun Oct 9 19:30:19 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index c4a139d..04c9034 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,3 +1,4 @@
+ this file was added using the command line by user spirit5401
+ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
++this is a line by user alpha5401
+
+commit 518b6e0a75fa5b9db081d52580660583fbde0d2d
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Sun Oct 9 19:27:42 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index 14e1d1c..c4a139d 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,2 +1,3 @@
+ this file was added using the command line by user spirit5401
+-this line of this file is being modified by user spirit 5402
+\ No newline at end of file
++this line of this file is being modified by user spirit 5402
++this line is being added on github online by user spirit5401

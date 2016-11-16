@@ -1,0 +1,126 @@
+commit 9d0dd2e493ff94e57c2fd67246f861eb1a7b7d28
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 27 21:05:44 2016 -0400
+
+    Update workfile1.txt
+
+commit df823bfa1643f2b7093458219de8be0b571b355e
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 27 21:05:26 2016 -0400
+
+    Update workfile1.txt
+
+commit c42d3649b1e9da205f65ef5e516b164a5a34f2ff
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 27 21:04:59 2016 -0400
+
+    Update workfile1.txt
+
+commit 913ef5b603f42aa6304c300cb7b3d5c81758f2b5
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Wed Oct 26 23:08:59 2016 -0400
+
+    updated workfile1
+
+commit ea9e0f7423613f7fdccbd7f55fcf64da8690e4fc
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Wed Oct 26 23:03:51 2016 -0400
+
+     added new file
+
+commit 6be075bdf05e8333861f8d6e4848d4ad6bafa7c7
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 23 05:40:45 2016 -0400
+
+    Update first.txt
+
+commit 88da36820d39790cf4e372adbe9ab838fe6222af
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 20 07:16:09 2016 -0400
+
+    Update first.txt
+
+commit f98bae1f35709451890980c39fe909cc1c6c06ef
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 20 07:12:56 2016 -0400
+
+    Update first.txt
+
+commit 310a266403345062eef6a31dd64281319cb7533e
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Oct 7 00:28:14 2016 -0400
+
+    modified file sixth by spirit5402
+
+commit 89eed0f766cbda8fe0ed9e44650c0299e3ff166e
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Oct 7 00:23:44 2016 -0400
+
+    added new file by user spirit5401
+
+commit 64e3e286edf4c9d1edb8e8867877a289cafd931c
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Oct 6 23:50:31 2016 -0400
+
+    created new file by spirit5402
+
+commit 3151c0ec8d9ca93ef11113a88b03cc01f674c468
+Merge: cc6fba1 8ef3105
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 3 20:47:00 2016 -0400
+
+    Merge branch 'master' of https://github.com/alpha5401/Git-Contributors
+
+commit cc6fba1f9cf8780b4d0aca04088d38eb84f8c9ea
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 3 20:35:19 2016 -0400
+
+    added text to readme
+
+commit 8ef31055942d3db673d7c6d8af0414f2dcc902c1
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 3 12:33:17 2016 -0400
+
+    Update second.txt
+
+commit 0fdf0d4ec66d41b13eb9979b2d213b46177fe8d8
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 2 17:58:28 2016 -0400
+
+    added text
+
+commit 2e1c637a10be4a46ed2e74bb08bff290e9483cb9
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 2 17:55:54 2016 -0400
+
+    added text
+
+commit d0df13dcfa75e30526d67b5cab478165456d87fd
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Oct 2 17:32:34 2016 -0400
+
+    added file
+
+commit b5227a72ba2e4bb4a7f50cc5715186cd334a6eb7
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Sep 29 23:47:32 2016 -0400
+
+    Update second.txt
+
+commit 5a1a8404b422e8da060b2e874d7448856927b676
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Thu Sep 29 23:38:20 2016 -0400
+
+    added text to readme.md
+
+commit 8fb1b5984ff3baaf2c40f7ec0b8b1cb8b311f3da
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Sep 25 23:08:55 2016 -0400
+
+    --all
+
+commit 76318d80bf36c9c768514dda94b1afd2a898c867
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Sun Sep 25 18:42:06 2016 -0400
+
+    Initial commit

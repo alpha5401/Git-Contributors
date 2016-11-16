@@ -1,3 +1,38 @@
+commit 70cab491f4b581638ce4dd1383c38bcb64bd2fc1
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Fri Nov 4 21:45:45 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index 3332316..fb7d694 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -12,3 +12,6 @@ line11-added by alpha5401
+ line12-added by alpha5401
+ line13-added by alpha5401
+ line14-added by alpha5401
++line15
++line16
++line16
+
+commit 287643800ec28a0ff7bb1d01b63df111da87f859
+Author: alpha5401 <tifor01@gmail.com>
+Date:   Mon Oct 31 10:03:29 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index c265997..3332316 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -10,3 +10,5 @@ line9-added by spirit5402
+ line10-added by alpha5401
+ line11-added by alpha5401
+ line12-added by alpha5401
++line13-added by alpha5401
++line14-added by alpha5401
+
 commit 9d0dd2e493ff94e57c2fd67246f861eb1a7b7d28
 Author: alpha5401 <tifor01@gmail.com>
 Date:   Thu Oct 27 21:05:44 2016 -0400
@@ -27,6 +62,53 @@ index 9648935..c265997 100644
 +line10-added by alpha5401
 +line11-added by alpha5401
 +line12-added by alpha5401
+
+commit 14d6089793826a9ed8d6a180541c2037c2d0e029
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Thu Oct 27 21:03:54 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index 4bd2124..9648935 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -1,7 +1,9 @@
+ line1-added by alpha5401
+ line2-added by alpha5401
+-line3-added by alpha5401
++line3-deleted by spirit5402
+ line4-added by alpha5401
+ line5-this line was deleted by spirit5401(was added by alpha5401)
+ line6-added by spirit5401
+ line7-added by spirit5401
++line8-added by spirit5402
++line9-added by spirit5402
+
+commit b85ee3caca893b501e7a2d0c98217e8406ff9d1e
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 27 20:58:54 2016 -0400
+
+    Update workfile1.txt
+
+diff --git a/workfile1.txt b/workfile1.txt
+index d0056c0..4bd2124 100644
+--- a/workfile1.txt
++++ b/workfile1.txt
+@@ -1,5 +1,7 @@
+-line1-added by alpha1
+-line2-added by alpha1
+-line3-added by alpha1
+-line4-added by alpha1
+-line5-added by alpha2
+\ No newline at end of file
++line1-added by alpha5401
++line2-added by alpha5401
++line3-added by alpha5401
++line4-added by alpha5401
++line5-this line was deleted by spirit5401(was added by alpha5401)
++line6-added by spirit5401
++line7-added by spirit5401
 
 commit 913ef5b603f42aa6304c300cb7b3d5c81758f2b5
 Author: alpha5401 <tifor01@gmail.com>
@@ -648,6 +730,114 @@ index 30dd1eb..e545af0 100644
 +in this commit alpha deleted two lines (one fron spirit5401 and one from spirit5402) and added two lines
 +
 
+commit 0b94dfc8140fa82ddaa03618811caabafee3bbec
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Sun Oct 23 05:36:57 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index bb5847a..30dd1eb 100644
+--- a/first.txt
++++ b/first.txt
+@@ -27,3 +27,6 @@ Option	Description
+ 
+ --pretty        Show commits in an alternate format. Options include oneline, short, full, fuller, and format (where you specify your own format).
+ ===============================
++this is an extra contribution by spirit5402
++another line of code by the same contributor spirit5402
++3rdline of spirit5402 in this current commit
+
+commit 5d09492cd7b2534294800cd90d7d3f21c1bae092
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Thu Oct 20 22:49:06 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index 7883848..bb5847a 100644
+--- a/first.txt
++++ b/first.txt
+@@ -5,3 +5,25 @@ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+ additional line by spirit5401
++this line is being modified by user spirit5402
++=======================
++Table 2-2. Common options to git log
++Option	Description
++-p              Show the patch introduced with each commit.
++
++--stat          Show statistics for files modified in each commit.
++
++--shortstat     Display only the changed/insertions/deletions line from the --stat command.
++
++--name-only     Show the list of files modified after the commit information.
++
++--name-status   Show the list of files affected with added/modified/deleted information as well.
++
++--abbrev-commit Show only the first few characters of the SHA-1 checksum instead of all 40.
++
++--relative-date Display the date in a relative format (for example, “2 weeks ago”) instead of using the full date format.
++
++--graph         Display an ASCII graph of the branch and merge history beside the log output.
++
++--pretty        Show commits in an alternate format. Options include oneline, short, full, fuller, and format (where you specify your own format).
++===============================
+
+commit 1852800c233540dedfffca5f7059b64e1625d62e
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:36:31 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index 0d234c3..7883848 100644
+--- a/first.txt
++++ b/first.txt
+@@ -5,4 +5,3 @@ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+ additional line by spirit5401
+-
+
+commit 5fab98bee42cb282143ac6e456ccc0ecdd4abf77
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:35:43 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index 5d69009..0d234c3 100644
+--- a/first.txt
++++ b/first.txt
+@@ -4,5 +4,5 @@ instruction for listing with pretty format showing : git log --pretty=format:"%h
+ this is another way of creating a text file: echo " some message" > filename.txt
+ this line and the next is modified by spirit5401
+ another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
+-additional lne by spirit5401
++additional line by spirit5401
+ 
+
+commit b11be917a5b311f39a8e6b13a2464cc2ca48f136
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Thu Oct 20 22:31:53 2016 -0400
+
+    Update first.txt
+
+diff --git a/first.txt b/first.txt
+index c836830..5d69009 100644
+--- a/first.txt
++++ b/first.txt
+@@ -2,3 +2,7 @@ using: copy nul > file.txt
+ this my first text file 
+ instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
+ this is another way of creating a text file: echo " some message" > filename.txt
++this line and the next is modified by spirit5401
++another way of creating a file is just by typing some text and putting in a new non existing file eg: type nul > textfile.txt
++additional lne by spirit5401
++
+
 commit 88da36820d39790cf4e372adbe9ab838fe6222af
 Author: alpha5401 <tifor01@gmail.com>
 Date:   Thu Oct 20 07:16:09 2016 -0400
@@ -678,6 +868,92 @@ index 3bd0635..ab77cf5 100644
  using: copy nul > file.txt
  this my first text file 
 +instruction for listing with pretty format showing : git log --pretty=format:"%h - %an, %ar : %s" (modified by alpha5401)
+
+commit f9ecc0e9e91bbfadfa592dc5d59f85450cd2dea5
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Mon Oct 10 17:20:02 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index 5293108..d1d161a 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -4,4 +4,5 @@ this line is being added on github online by user spirit5401
+ (deleted by user spirit5402)
+ this line is actually added by user spirit5402
+ this is the latest update by author spirit5402
++this is the latest upadet by user spirit5401-- user alpha5401 has not yet updated this document.
+ 
+
+commit 13854c1cf151f9812d9dabc02cfb0ae8b836b08b
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Mon Oct 10 17:18:25 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index d0969d3..5293108 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -3,4 +3,5 @@ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
+ (deleted by user spirit5402)
+ this line is actually added by user spirit5402
++this is the latest update by author spirit5402
+ 
+
+commit 57434934b335b8df63592c765d6c6effc7d558ca
+Author: spirit5402 <tigroup2008@gmail.com>
+Date:   Sun Oct 9 23:00:26 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index 04c9034..d0969d3 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,4 +1,6 @@
+ this file was added using the command line by user spirit5401
+ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
+-this is a line by user alpha5401
++(deleted by user spirit5402)
++this line is actually added by user spirit5402
++
+
+commit 79242e8297686536396cbb1b8ec3edda93a829e6
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Sun Oct 9 19:30:19 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index c4a139d..04c9034 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,3 +1,4 @@
+ this file was added using the command line by user spirit5401
+ this line of this file is being modified by user spirit 5402
+ this line is being added on github online by user spirit5401
++this is a line by user alpha5401
+
+commit 518b6e0a75fa5b9db081d52580660583fbde0d2d
+Author: spirit5401 <tighomes@gmail.com>
+Date:   Sun Oct 9 19:27:42 2016 -0400
+
+    Update sixth.txt
+
+diff --git a/sixth.txt b/sixth.txt
+index 14e1d1c..c4a139d 100644
+--- a/sixth.txt
++++ b/sixth.txt
+@@ -1,2 +1,3 @@
+ this file was added using the command line by user spirit5401
+-this line of this file is being modified by user spirit 5402
+\ No newline at end of file
++this line of this file is being modified by user spirit 5402
++this line is being added on github online by user spirit5401
 
 commit 310a266403345062eef6a31dd64281319cb7533e
 Author: alpha5401 <tifor01@gmail.com>
